@@ -1,6 +1,6 @@
 # DefenderMasterclass1
 
-![image](CALLing all Defenders!.png)
+![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/CALLing%20all%20Defenders!.png)
 
 Welcome to the Defender Masterclass repository.
 
