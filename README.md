@@ -8,7 +8,7 @@ Feedback form - https://aks.ms/defendermasterclass-feedback
 
 You will be provided with access to a Microsoft Defender for Endpoint tenant to complete the attack scenario challenges. 
 
-To complete the Microsoft Defender Teams/PowerPlatform integration lab please ensure you have completed the Labs - Getting Started guidance.
+To complete the Microsoft Defender Teams/PowerPlatform integration lab please ensure you have completed the Labs - Getting Started guidance. This is not required if you already have access to an existing non production tenant. 
 
 
 
