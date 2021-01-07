@@ -1,5 +1,7 @@
 # DefenderMasterclass1
 
+![image](CALLing all Defenders!.png)
+
 Welcome to the Defender Masterclass repository.
 
 Registration page - https://aka.ms/defendermasterclass-reg
