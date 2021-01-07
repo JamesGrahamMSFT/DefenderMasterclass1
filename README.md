@@ -2,6 +2,8 @@
 
 Welcome to the Defender Masterclass repository.
 
+Link to this repo - https://aka.ms/defendermasterclass-repo
+
 Registration page - https://aka.ms/defendermasterclass-reg
 
 Feedback form - https://aks.ms/defendermasterclass-feedback
