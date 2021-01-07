@@ -1,5 +1,3 @@
-# DefenderMasterclass1
-
 ![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Title.png)
 
 Welcome to the Defender Masterclass repository.
