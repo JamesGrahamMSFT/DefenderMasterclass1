@@ -1,0 +1,82 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.2",
+    "body": [
+        {
+            "type": "ImageSet",
+            "images": [
+                {
+                    "type": "Image",
+                    "size": "Medium",
+                    "url": "https://betanews.com/wp-content/uploads/2017/01/win-defender.jpg"
+                }
+            ]
+        },
+        {
+            "type": "TextBlock",
+            "text": "New Microsoft Defender Alert",
+            "size": "Large",
+            "weight": "Bolder",
+            "wrap": true
+        },
+        {
+            "type": "TextBlock",
+            "text": "ALERT DESCRIPTION",
+            "isSubtle": true,
+            "wrap": true
+        },
+        {
+            "type": "ActionSet",
+            "actions": [
+                {
+                    "type": "Action.ShowCard",
+                    "title": "Assign Alert",
+                    "card": {
+                        "type": "AdaptiveCard",
+                        "body": [
+                            {
+                                "type": "Input.ChoiceSet",
+                                "id": "alertassign",
+                                "value": "${r",
+                                "choices": [
+                                    {
+                                        "title": "Joni Sherman",
+                                        "value": "jonis@"
+                                    },
+                                    {
+                                        "title": "Adele Vance",
+                                        "value": "adelev@"
+                                    }
+                                ],
+                                "style": "expanded",
+                                "isVisible": true
+                            }
+                        ],
+                        "actions": [
+                            {
+                                "type": "Action.Submit",
+                                "title": "Assign Alert",
+                                "data": {
+                                    "x": "alertassign"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "Action.Submit",
+                    "title": "Isolate Machine",
+                    "data": {
+                        "x": "isolate"
+                    }
+                },
+                {
+                    "type": "Action.OpenUrl",
+                    "title": "View Details",
+                    "url": "https://securitycenter.windows.com/alerts/DETAILURL/details"
+                }
+            ]
+        }
+    ]
+}
