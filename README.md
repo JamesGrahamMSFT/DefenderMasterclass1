@@ -1,6 +1,9 @@
 ![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Title.png)
 
-Welcome to the Defender Masterclass repository.
+Welcome to the Defender Masterclass repository. 
+
+Masterclass II - coming March 2020 - look out for updates here! 
+Slides for Masterclass I now uploaded
 
 Link to this repo - https://aka.ms/defendermasterclass-repo
 
