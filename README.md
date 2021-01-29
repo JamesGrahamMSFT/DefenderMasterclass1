@@ -1,4 +1,4 @@
-![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Calling all Defenders 2!.png)
+![image]("https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Calling all Defenders 2!.png")
 
 Welcome to the Defender Masterclass repository. 
 
