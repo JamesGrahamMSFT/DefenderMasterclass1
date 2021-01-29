@@ -1,4 +1,4 @@
-![image](Calling all Defenders 2!.png)
+![image](Title2.png)
 
 Welcome to the Defender Masterclass repository. 
 
