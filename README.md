@@ -2,7 +2,7 @@
 
 Welcome to the Defender Masterclass repository. 
 
-Masterclass II - coming March 2020 - look out for updates here! 
+Masterclass II - 17th March 2020 - look out for updates here! 
 Slides for Masterclass I now uploaded
 
 Link to this repo - https://aka.ms/defendermasterclass-repo
