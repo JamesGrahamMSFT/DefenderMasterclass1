@@ -6,7 +6,7 @@ Masterclass II - 17th March 2020 - look out for updates here!
 
 Slides for Masterclass I now uploaded.
 
-Recordings:
+Recordings: https://aka.ms/defendermasterclass-recordings
 
 Masterclass I - Attack Scenario 1 https://youtu.be/ufRkI4Zdx7k
 
