@@ -8,7 +8,9 @@ Slides for Masterclass I now uploaded.
 
 Recordings:
 
-Masterclass I - Attack Scenario 1 https://youtu.be/mOct001yKI4
+Masterclass I - Attack Scenario 1 https://youtu.be/ufRkI4Zdx7k
+
+Masterclass I - Attack Scenario 2 https://youtu.be/BVIiuGMwlZ0
 
 
 Link to this repo - https://aka.ms/defendermasterclass-repo
