@@ -6,7 +6,9 @@ Masterclass II - 17th March 2020 - look out for updates here!
 
 Slides for Masterclass I now uploaded.
 
-Recordings - incoming!
+Recordings:
+https://youtu.be/mOct001yKI4
+
 
 Link to this repo - https://aka.ms/defendermasterclass-repo
 
