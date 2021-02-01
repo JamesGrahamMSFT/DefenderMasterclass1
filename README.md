@@ -12,6 +12,8 @@ Masterclass I - Attack Scenario 1 https://youtu.be/ufRkI4Zdx7k
 
 Masterclass I - Attack Scenario 2 https://youtu.be/BVIiuGMwlZ0
 
+Masterclass I - Power Platform Lab https://youtu.be/Yk01aOnHs4I
+
 
 Link to this repo - https://aka.ms/defendermasterclass-repo
 
