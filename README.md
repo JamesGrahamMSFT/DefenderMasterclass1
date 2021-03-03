@@ -22,7 +22,7 @@ Agenda:
 
 11:40am - Break 2
 
-11:50am - Teams Multitenant Power Virtual Agent Integration Lab - Jack Lewis/James Graham
+11:50am - Teams Multitenant Power Virtual Agent Integration Lab - Jack Lewis
 
 12:55pm - Close - James Graham
 
