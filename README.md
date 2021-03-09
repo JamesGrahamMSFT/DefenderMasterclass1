@@ -26,6 +26,8 @@ Agenda:
 
 12:55pm - Close - James Graham
 
+Supporting - Ally Turnbull, Mark Thomas
+
 Prerequisites - please complete Defender Masterclass - Labs Getting Started.pdf https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%20-%20Labs%20Getting%20started.pdf
 
 ----------------------------------------------------------------------------------------------------
