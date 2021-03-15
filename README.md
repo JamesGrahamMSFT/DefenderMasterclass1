@@ -6,7 +6,7 @@ Registration page - https://aka.ms/defendermasterclass-reg
 
 Feedback form - https://aks.ms/defendermasterclass-feedback
 
-Masterclass II - 17th March 2021 9AM - 1PM UK - Block out your calendar! Set a reminder! 
+Masterclass II - 17th March 2021 9AM - 1PM UK - Block out your calendar! Set a reminder! ICS file available here to download also. 
 
 Agenda:
 
