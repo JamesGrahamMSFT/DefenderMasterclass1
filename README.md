@@ -2,11 +2,17 @@
 
 Welcome to the Defender Masterclass repository. 
 
-Registration page - https://aka.ms/defendermasterclass-reg
+Masterclass III Registration - https://aka.ms/defendermasterclass3-reg
+
+Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg
+
+------------------------------------------------------------------------------------------------------------------
+
+Masterclass II On-Demand Recording - https://aka.ms/defendermasterclass-reg
 
 Feedback form - https://aks.ms/defendermasterclass-feedback
 
-Masterclass II - 17th March 2021 9AM - 1PM UK - Block out your calendar! Set a reminder! ICS file available here to download also. 
+Masterclass II - 17th March 2021 9AM - 1PM UK
 
 Agenda:
 
