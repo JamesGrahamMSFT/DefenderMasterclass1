@@ -8,7 +8,7 @@ Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg
 
 ------------------------------------------------------------------------------------------------------------------
 
-Masterclass II On-Demand Recording - https://aka.ms/defendermasterclass-reg
+Masterclass II On-Demand Recording - https://aka.ms/defendermasterclass2-ondemand
 
 Feedback form - https://aks.ms/defendermasterclass-feedback
 
