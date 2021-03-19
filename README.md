@@ -1,4 +1,4 @@
-![image]('Defender Masterclass 3 - Image concept.png')
+![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%203%20-%20Image%20concept.png)
 
 Welcome to the Defender Masterclass repository. 
 
