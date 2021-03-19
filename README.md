@@ -9,6 +9,7 @@ Masterclass III Registration - https://aka.ms/defendermasterclass3-reg
 Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg
 
 ------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%202%20-%20Image%20Final.png)
 
 Masterclass II On-Demand Recording - https://aka.ms/defendermasterclass2-ondemand
 
