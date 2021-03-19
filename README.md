@@ -21,17 +21,17 @@ Masterclass II - 17th March 2021 9AM - 1PM UK
 
 Agenda:
 
-9am - Introducation and Updates - James Graham (host) - Slides uploaded
+Introducation and Updates - James Graham (host) - Slides uploaded
 
-9:10am - Opening Keynote - Becky Cholerton
+Opening Keynote - Becky Cholerton
 
-9:30am - Advanced Threat Hunting - Christos Ventouris - No Slides
+Advanced Threat Hunting - Christos Ventouris - No Slides
 
-10:40am - Live Response - Steve Newby - Slides uploaded
+Live Response - Steve Newby - Slides uploaded
 
-11:50am - Teams Multitenant Power Virtual Agent Integration Lab - Jack Lewis - Slides uploaded
+Teams Multitenant Power Virtual Agent Integration Lab - Jack Lewis - Slides uploaded
 
-12:55pm - Close - James Graham - Slides uploaded
+Close - James Graham - Slides uploaded
 
 Supporting - Ally Turnbull, Mark Thomas
 
