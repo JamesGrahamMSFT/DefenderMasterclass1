@@ -1,4 +1,4 @@
-![image]("Defender Masterclass 3 - Image concept.png")
+![image](Defender Masterclass 3 - Image concept.png)
 
 Welcome to the Defender Masterclass repository. 
 
