@@ -20,13 +20,9 @@ Agenda:
 
 9:10am - Opening Keynote - Becky Cholerton
 
-9:30am - Advanced Threat Hunting - Christos Ventouris
+9:30am - Advanced Threat Hunting - Christos Ventouris - No Slides
 
-10:30am - Break 1
-
-10:40am - Live Response - Steve Newby
-
-11:40am - Break 2
+10:40am - Live Response - Steve Newby - Slides uploaded
 
 11:50am - Teams Multitenant Power Virtual Agent Integration Lab - Jack Lewis
 
