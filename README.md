@@ -16,7 +16,7 @@ Masterclass II - 17th March 2021 9AM - 1PM UK
 
 Agenda:
 
-9am - Introducation and Updates - James Graham (host)
+9am - Introducation and Updates - James Graham (host) - Slides uploaded
 
 9:10am - Opening Keynote - Becky Cholerton
 
@@ -24,9 +24,9 @@ Agenda:
 
 10:40am - Live Response - Steve Newby - Slides uploaded
 
-11:50am - Teams Multitenant Power Virtual Agent Integration Lab - Jack Lewis
+11:50am - Teams Multitenant Power Virtual Agent Integration Lab - Jack Lewis - Slides uploaded
 
-12:55pm - Close - James Graham
+12:55pm - Close - James Graham - Slides uploaded
 
 Supporting - Ally Turnbull, Mark Thomas
 
