@@ -38,6 +38,8 @@ Prerequisites - please complete Defender Masterclass - Labs Getting Started.pdf 
 
 ----------------------------------------------------------------------------------------------------
 
+![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%201%20-%20Image%20Final.png)
+
 Masterclass I - 13th January 2021
 
 Slides for Masterclass I now uploaded.
