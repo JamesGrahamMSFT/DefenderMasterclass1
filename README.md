@@ -31,7 +31,7 @@ Agenda:
 
 Introducation and Updates - James Graham (host) - Slides uploaded
 
-Opening Keynote - Becky Cholerton
+Opening Keynote - Becky Cholerton - Slides uploaded
 
 Advanced Threat Hunting - Christos Ventouris - No Slides
 
