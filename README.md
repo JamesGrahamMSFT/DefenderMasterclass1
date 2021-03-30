@@ -21,7 +21,7 @@ Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg
 
 Masterclass II On-Demand Recording - https://aka.ms/defendermasterclass2-ondemand
 
-Power Virtual Agent end2end recording - TBA
+Power Virtual Agent end2end recording - TBA, aiming for w/c 5th April!
 
 Feedback form - https://aks.ms/defendermasterclass-feedback
 
