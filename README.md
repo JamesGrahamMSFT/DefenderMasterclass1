@@ -1,3 +1,5 @@
+New Recording! Labs Getting Starting Guide - https://youtu.be/btXpclS23Po 
+
 Join the Microsoft Defender Masterclass Cloud Skills Challenge! 
 
 https://aka.ms/defendermasterclass-skillschallenge
