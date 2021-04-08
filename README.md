@@ -1,4 +1,14 @@
-New Recording! Labs Getting Starting Guide - https://youtu.be/btXpclS23Po 
+New Recordings! 
+
+Microsoft Defender Masterclass II Multitenant Power Virtual Agend Bot for Microsoft Defender Lab Step-by-Step walkthrough is now available.
+
+Part 1: https://youtu.be/vwCsWHV627g
+
+Part 2: https://youtu.be/QjYO4zSGWz0
+
+Part 3: https://youtu.be/FJ56fE85cPE
+
+Labs Getting Starting Guide - https://youtu.be/btXpclS23Po 
 
 Join the Microsoft Defender Masterclass Cloud Skills Challenge! 
 
@@ -23,7 +33,13 @@ Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg
 
 Masterclass II On-Demand Recording - https://aka.ms/defendermasterclass2-ondemand
 
-Power Virtual Agent end2end recording - TBA, aiming for w/c 5th April!
+Power Virtual Agent end2end recording - 
+
+Part 1: https://youtu.be/vwCsWHV627g
+
+Part 2: https://youtu.be/QjYO4zSGWz0
+
+Part 3: https://youtu.be/FJ56fE85cPE
 
 Feedback form - https://aks.ms/defendermasterclass-feedback
 
