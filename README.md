@@ -8,16 +8,6 @@ Event placeholder file is available in the files - right click and "save link as
 
 Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg
 
-New Recordings! 
-
-Microsoft Defender Masterclass II Multitenant Power Virtual Agend Bot for Microsoft Defender Lab Step-by-Step walkthrough is now available.
-
-Part 1: https://youtu.be/vwCsWHV627g
-
-Part 2: https://youtu.be/QjYO4zSGWz0
-
-Part 3: https://youtu.be/FJ56fE85cPE
-
 Labs Getting Starting Guide - https://youtu.be/btXpclS23Po 
 
 Join the Microsoft Defender Masterclass Cloud Skills Challenge! 
@@ -27,9 +17,6 @@ https://aka.ms/defendermasterclass-skillschallenge
 Too easy - why not try out the ultimate challenge!
 
 https://aka.ms/defendermasterclass-ultimatechallenge
-
-
-![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%204%20-%20Image%20concept.png)
 
 ------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%202%20-%20Image%20Final.png)
