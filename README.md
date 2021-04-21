@@ -1,6 +1,8 @@
 Welcome to the Defender Masterclass repository. 
 
-Masterclass III Registration - https://aka.ms/defendermasterclass3-reg
+![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%203%20-%20Image%20Final.png)
+
+Masterclass III Registration - https://aka.ms/defendermasterclass-reg
 
 Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg
 
@@ -24,7 +26,6 @@ Too easy - why not try out the ultimate challenge!
 
 https://aka.ms/defendermasterclass-ultimatechallenge
 
-![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%203%20-%20Image%20Final.png)
 
 ![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%204%20-%20Image%20concept.png)
 
