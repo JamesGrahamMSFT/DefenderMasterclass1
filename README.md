@@ -4,7 +4,7 @@ Welcome to the Defender Masterclass repository.
 
 Masterclass III Registration - https://aka.ms/defendermasterclass-reg - new date! 17th June! 
 
-Event placeholder file is available in the files - right click and "save link as" to download. 
+Event placeholder file is available in the files - right click and "save link as" to download. x
 
 Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg - new date! 30th June!
 
