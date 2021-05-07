@@ -1,12 +1,14 @@
 Welcome to the Defender Masterclass repository. 
 
-![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%203%20-%20Image%20Final.png)
+![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%203%20-%20Image%20Updated.png)
 
 Masterclass III Registration - https://aka.ms/defendermasterclass-reg - new date! 17th June! 
 
 Event placeholder file is available in the files - right click and "save link as" to download. 
 
 Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg - new date! 30th June!
+
+![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%204%20-%20Image%20Final.png)
 
 Labs Getting Starting Guide - https://youtu.be/btXpclS23Po 
 
