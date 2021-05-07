@@ -8,7 +8,7 @@ Event placeholder file is available in the files - right click and "save link as
 
 Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg - new date! 30th June!
 
-![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%204%20-%20Image%20Final.png)
+
 
 Labs Getting Starting Guide - https://youtu.be/btXpclS23Po 
 
