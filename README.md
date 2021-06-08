@@ -1,5 +1,11 @@
 Welcome to the Defender Masterclass repository. 
 
+Update - 8th June 2021
+
+Labs Getting Started Guide has been updated in preparation for Defender Masterclass III running on 17th June. 
+
+I have previously created a video that walks through this guide which is available on the YouTube channel - https://aka.ms/defendermasterclass-recordings
+
 ![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%203%20-%20Image%20Updated.png)
 
 Masterclass III Registration - https://aka.ms/defendermasterclass-reg - new date! 17th June! 
