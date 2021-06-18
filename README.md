@@ -2,29 +2,45 @@ Welcome to the Defender Masterclass repository.
 
 Update - 18th June 2021
 
-Masterclass III slides added above. 
+Masterclass III slides added above - On-demand recording available at https://aka.ms/defendermasterclass3-ondemand
 
-Labs Getting Started Guide has been updated in preparation for Defender Masterclass III running on 17th June. 
-
-I have previously created a video that walks through this guide which is available on the YouTube channel - https://aka.ms/defendermasterclass-recordings
-
-![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%203%20-%20Image%20Updated.png)
-
-Masterclass III Registration - https://aka.ms/defendermasterclass-reg - new date! 17th June! 
-
-Event placeholder file is available in the files - right click and "save link as" to download.
+YouTube channel - https://aka.ms/defendermasterclass-recordings
 
 Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg - new date! 30th June!
 
 ![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%204%20-%20Image%20Final.png)
 
-Labs Getting Starting Guide - https://youtu.be/btXpclS23Po 
+![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%203%20-%20Image%20Updated.png)
 
-Join the Microsoft Defender Masterclass Cloud Skills Challenge! 
+Agenda:
+
+Opening Keynote – Avi Sagiv
+
+Threat Analytics and Attack Surface Reduction Hands-On Exercises – Mark Thomas
+
+Break 
+
+Threat Analytics and Attack Surface Reduction continued
+
+Break
+
+Azure Virtual Desktop Overview – George Wood
+
+Securing Windows 10 Multisession – James Graham
+
+Break
+
+Automated Threat Incident Reports with Microsoft Defender and Power Automate – James Graham
+
+Closing Session – James Graham
+
+Close
+
+YouTube channel - https://aka.ms/defendermasterclass-recordings
+
+Previous Skills Challenges - now closed. 
 
 https://aka.ms/defendermasterclass-skillschallenge
-
-Too easy - why not try out the ultimate challenge!
 
 https://aka.ms/defendermasterclass-ultimatechallenge
 
