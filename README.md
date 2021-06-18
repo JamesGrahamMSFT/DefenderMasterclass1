@@ -1,6 +1,8 @@
 Welcome to the Defender Masterclass repository. 
 
-Update - 8th June 2021
+Update - 18th June 2021
+
+Masterclass III slides added above. 
 
 Labs Getting Started Guide has been updated in preparation for Defender Masterclass III running on 17th June. 
 
