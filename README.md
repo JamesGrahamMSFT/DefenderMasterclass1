@@ -14,27 +14,27 @@ Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg - new date
 
 Agenda:
 
-Opening Keynote – Avi Sagiv
+1. Opening Keynote – Avi Sagiv
 
-Threat Analytics and Attack Surface Reduction Hands-On Exercises – Mark Thomas
+2. Threat Analytics and Attack Surface Reduction Hands-On Exercises – Mark Thomas
 
-Break 
+3. Break 
 
-Threat Analytics and Attack Surface Reduction continued
+4. Threat Analytics and Attack Surface Reduction continued
 
-Break
+5. Break
 
-Azure Virtual Desktop Overview – George Wood
+6. Azure Virtual Desktop Overview – George Wood
 
-Securing Windows 10 Multisession – James Graham
+7. Securing Windows 10 Multisession – James Graham
 
-Break
+8. Break
 
-Automated Threat Incident Reports with Microsoft Defender and Power Automate – James Graham
+9. Automated Threat Incident Reports with Microsoft Defender and Power Automate – James Graham
 
-Closing Session – James Graham
+10. Closing Session – James Graham
 
-Close
+11. Close
 
 YouTube channel - https://aka.ms/defendermasterclass-recordings
 
