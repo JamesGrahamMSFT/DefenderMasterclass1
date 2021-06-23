@@ -6,7 +6,7 @@ Masterclass III slides added above - On-demand recording available at https://ak
 
 YouTube channel - https://aka.ms/defendermasterclass-recordings
 
-[image](https://user-images.githubusercontent.com/58002777/123130200-7e7e4080-d444-11eb-9556-e64a04437d3a.png)
+![image](https://user-images.githubusercontent.com/58002777/123130607-cc934400-d444-11eb-8f7c-0995d68983ad.png)
 
 Silver – Completed skills challenge or Completed MS-500 MS Learn Collection + registered for at least one Masterclass Event.
 Gold –  Completed Ultimate Skills Challenge or Silver + MS-500 pass + registered for at least two Masterclass Events,
