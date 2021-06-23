@@ -6,6 +6,22 @@ Masterclass III slides added above - On-demand recording available at https://ak
 
 YouTube channel - https://aka.ms/defendermasterclass-recordings
 
+Badges – Requirements and How to claim![image](https://user-images.githubusercontent.com/58002777/123130200-7e7e4080-d444-11eb-9556-e64a04437d3a.png)
+
+Silver – Completed skills challenge or Completed MS-500 MS Learn Collection + registered for at least one Masterclass Event.
+Gold –  Completed Ultimate Skills Challenge or Silver + MS-500 pass + registered for at least two Masterclass Events,
+
+Email: james.graham@microsoft.com 
+Subject: Defender Masterclass Badge Claim
+Body: Provide proof of completing the skills challenge (aka.ms/defendermasterclass-skillschallenge or aka.ms/defendermasterclass-ultimatechallenge – now closed) or completed modules – screenshots will suffice, with proof that it’s you. MS-500 – proof of certification (screenshot will suffice).
+
+Qualified submissions will receive Badge via email
+
+----------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/58002777/123130097-64446280-d444-11eb-9209-24a3eb0322d8.png)
+
+
 Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg - new date! 30th June!
 
 ![image](https://github.com/JamesGrahamMSFT/DefenderMasterclass1/blob/main/Defender%20Masterclass%204%20-%20Image%20Final.png)
