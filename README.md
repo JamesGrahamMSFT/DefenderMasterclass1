@@ -25,8 +25,6 @@ Qualified submissions will receive Badge via email
 
 ----------------------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/58002777/123130097-64446280-d444-11eb-9209-24a3eb0322d8.png)
-
 
 Masterclass IV Registration - https://aka.ms/defendermasterclass4-reg - new date! 30th June!
 
