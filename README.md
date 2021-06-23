@@ -10,7 +10,9 @@ YouTube channel - https://aka.ms/defendermasterclass-recordings
 
 Silver – Completed skills challenge or Completed MS-500 MS Learn Collection + registered for at least one Masterclass Event.
 
-Gold –  Completed Ultimate Skills Challenge or Silver + MS-500 pass + registered for at least two Masterclass Events,
+Gold –  Completed Ultimate Skills Challenge or Silver + MS-500 pass + registered for at least two Masterclass Events.
+
+To claim, send an email: 
 
 Email: james.graham@microsoft.com 
 
