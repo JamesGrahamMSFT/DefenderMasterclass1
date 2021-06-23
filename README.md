@@ -9,10 +9,13 @@ YouTube channel - https://aka.ms/defendermasterclass-recordings
 ![image](https://user-images.githubusercontent.com/58002777/123130607-cc934400-d444-11eb-8f7c-0995d68983ad.png)
 
 Silver – Completed skills challenge or Completed MS-500 MS Learn Collection + registered for at least one Masterclass Event.
+
 Gold –  Completed Ultimate Skills Challenge or Silver + MS-500 pass + registered for at least two Masterclass Events,
 
 Email: james.graham@microsoft.com 
+
 Subject: Defender Masterclass Badge Claim
+
 Body: Provide proof of completing the skills challenge (aka.ms/defendermasterclass-skillschallenge or aka.ms/defendermasterclass-ultimatechallenge – now closed) or completed modules – screenshots will suffice, with proof that it’s you. MS-500 – proof of certification (screenshot will suffice).
 
 Qualified submissions will receive Badge via email
